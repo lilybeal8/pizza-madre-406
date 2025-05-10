@@ -1,0 +1,52 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pizza Madre 406</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Pizza Madre 406</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#menu">Menu</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Pizza Madre 406!</h2>
+    <p>Delicious, handmade pizza straight from our heart to your table.</p>
+  </section>
+
+  <section id="menu">
+    <h2>Our Menu</h2>
+    <ul>
+      <li>Classic Margherita - $12</li>
+      <li>Pepperoni Feast - $14</li>
+      <li>Veggie Delight - $13</li>
+      <li>BBQ Chicken - $15</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Founded in Montana, Pizza Madre 406 brings authentic flavors, family traditions, and quality ingredients together in every bite.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: pizzamadre406@example.com</p>
+    <p>Phone: (406) 555-1234</p>
+    <p>Visit us at 123 Main St, Helena, MT</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Pizza Madre 406. All rights reserved.</p>
+  </footer>
+</body>
+</html>
